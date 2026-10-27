@@ -85,4 +85,4 @@ def screen(symbol,bars):
     reasons=[]
     if not .25<=b['close']<5: reasons.append('Outside $0.25–$5 band')
     if dv<1_000_000: reasons.append('Average daily dollar volume below $1M')
-    return {'symbol':symbol,'date':b['date'],'price':b['close'],'change':b['close']/bars[-2]['close']-1,'relative_volume':rv,'dollar_volume':dv,'momentum':b['close']/bars[-6]['close']-1,'signals':[s for s in STRATEGIES if signal(bars,len(bars)-1,s)],'eligible':not reasons,'exclusions':reasons,'source':f'https://finance.yahoo.com/quote/{symbol}/history/'}
+    return {'symbol':symbol,'date':b['date'],'price':b['close'],'volume':b['volume'],'daily_dollar_volume':b['volume']*b['close'],'change':b['close']/bars[-2]['close']-1,'relative_volume':rv,'dollar_volume':dv,'momentum':b['close']/bars[-6]['close']-1,'signals':[s for s in STRATEGIES if signal(bars,len(bars)-1,s)],'eligible':not reasons,'exclusions':reasons,'source':f'https://finance.yahoo.com/quote/{symbol}/history/'}

@@ -1,1 +1,64 @@
-{"symbols":["SNDL","TLRY","CGC","OPEN","ACHR","JOBY","PLUG","FCEL","CHPT","BLNK","LCID","RIVN","NIO","NKLA","BNGO","BBAI","SOUN","DNA","RXRX","GRAB","GPRO","KOS","RIG","CLOV","WISH","HIMS","SOFI","MARA","RIOT","BITF"],"managers":[{"name":"Berkshire Hathaway","cik":"1067983"},{"name":"Pershing Square","cik":"1336528"},{"name":"Scion Asset Management","cik":"1649339"}]}
+{
+  "symbols": [
+    "SNDL",
+    "TLRY",
+    "CGC",
+    "OPEN",
+    "ACHR",
+    "JOBY",
+    "PLUG",
+    "FCEL",
+    "CHPT",
+    "BLNK",
+    "LCID",
+    "RIVN",
+    "NIO",
+    "NKLA",
+    "BNGO",
+    "BBAI",
+    "SOUN",
+    "DNA",
+    "RXRX",
+    "GRAB",
+    "GPRO",
+    "KOS",
+    "RIG",
+    "CLOV",
+    "WISH",
+    "HIMS",
+    "SOFI",
+    "MARA",
+    "RIOT",
+    "BITF"
+  ],
+  "managers": [
+    {
+      "name": "Berkshire Hathaway",
+      "cik": "1067983"
+    },
+    {
+      "name": "Pershing Square",
+      "cik": "1336528"
+    },
+    {
+      "name": "Scion Asset Management",
+      "cik": "1649339"
+    },
+    {
+      "name": "Renaissance Technologies",
+      "cik": "1037389"
+    },
+    {
+      "name": "Citadel Advisors",
+      "cik": "1423053"
+    },
+    {
+      "name": "Bridgewater Associates",
+      "cik": "1350694"
+    },
+    {
+      "name": "Point72 Asset Management",
+      "cik": "1603466"
+    }
+  ]
+}
