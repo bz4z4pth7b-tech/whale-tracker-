@@ -63,10 +63,16 @@ def parse_form4(text,meta):
         out.append({**meta,'id':'purchase-'+ident,'kind':'disclosed_purchase','manager':' / '.join(o['name'] for o in owners),'owner_ciks':[o['cik'] for o in owners],'symbol':symbol,'issuer':issuer,'security':security,'transaction_date':when,'shares':g['shares'],'amount':g['amount'] if g['priced'] else None,'ownership':ownership,'line_count':g['lines'],'label':'Reported purchase · Form 4 code P','caveat':'Open-market or private purchase as filed; not a live trade. Original reports can later be amended. Joint reporting owners are not counted as separate purchases.'})
     return out
 
+class NotInformationTable(ValueError):
+    """A valid XML attachment that is not a holdings information table."""
+
 def parse_holdings(text):
     root=xml(text); result={}
     nodes=list(root.iter('infoTable'))
-    if not nodes: raise ValueError('No information-table rows found')
+    if not nodes:
+        if root.tag == 'informationTable':
+            raise ValueError('No information-table rows found')
+        raise NotInformationTable('Not an information-table attachment')
     for n in nodes:
         # Option-underlying share counts and principal amounts are not stock shares.
         if val(n,'putCall') or val(n,'shrsOrPrnAmt/sshPrnamtType')!='SH':continue
@@ -124,7 +130,7 @@ def holdings(sec,meta):
     for url in document_urls(sec,meta):
         text=sec.text(url)
         try: rows=parse_holdings(text)
-        except ValueError:continue
+        except NotInformationTable:continue
         found=True
         for key,row in rows.items():
             if key not in combined:combined[key]=dict(row)
@@ -180,3 +186,4 @@ def collect(config,prior):
     merged.update({e['id']:e for e in events})
     events=sorted(merged.values(),key=lambda e:(e.get('filed',''),e.get('id','')),reverse=True)[:5000]
     return {'managers':managers,'whales':filings or prior.get('whales',[]),'whale_events':events,'purchase_coverage':purchase_coverage,'errors':errors,'status':'ok' if not errors else 'partial' if filings or events else 'unavailable','requests':sec.requests}
+
