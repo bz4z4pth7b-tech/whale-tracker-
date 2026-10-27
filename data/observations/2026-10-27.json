@@ -1,0 +1,379 @@
+{
+  "recorded_at": "2026-10-27T07:01:55.595417+00:00",
+  "screen": [
+    {
+      "symbol": "KOS",
+      "date": "2026-10-26",
+      "price": 2.8499999046325684,
+      "change": -0.006968634747042013,
+      "relative_volume": 1.5884194332929378,
+      "dollar_volume": 33467129.560872316,
+      "momentum": 0.0215053561289984,
+      "signals": [],
+      "eligible": true,
+      "exclusions": [],
+      "source": "https://finance.yahoo.com/quote/KOS/history/"
+    },
+    {
+      "symbol": "SNDL",
+      "date": "2026-10-26",
+      "price": 1.2699999809265137,
+      "change": -0.015503861641813277,
+      "relative_volume": 1.3624080468398139,
+      "dollar_volume": 1661262.6643317938,
+      "momentum": 0.011952179881974168,
+      "signals": [],
+      "eligible": true,
+      "exclusions": [],
+      "source": "https://finance.yahoo.com/quote/SNDL/history/"
+    },
+    {
+      "symbol": "OPEN",
+      "date": "2026-10-26",
+      "price": 1.9299999475479126,
+      "change": -0.02525256113329255,
+      "relative_volume": 1.1753723099329585,
+      "dollar_volume": 74868170.49517989,
+      "momentum": -0.058536589053470034,
+      "signals": [],
+      "eligible": true,
+      "exclusions": [],
+      "source": "https://finance.yahoo.com/quote/OPEN/history/"
+    },
+    {
+      "symbol": "SOUN",
+      "date": "2026-10-26",
+      "price": 4.239999771118164,
+      "change": -0.0428894050977231,
+      "relative_volume": 0.881673948271505,
+      "dollar_volume": 81601977.79726744,
+      "momentum": -0.08817211093344512,
+      "signals": [],
+      "eligible": true,
+      "exclusions": [],
+      "source": "https://finance.yahoo.com/quote/SOUN/history/"
+    },
+    {
+      "symbol": "PLUG",
+      "date": "2026-10-26",
+      "price": 1.3700000047683716,
+      "change": -0.007246369925949403,
+      "relative_volume": 0.8480592977146464,
+      "dollar_volume": 82749632.86901534,
+      "momentum": 0.0,
+      "signals": [],
+      "eligible": true,
+      "exclusions": [],
+      "source": "https://finance.yahoo.com/quote/PLUG/history/"
+    },
+    {
+      "symbol": "GRAB",
+      "date": "2026-10-26",
+      "price": 2.7100000381469727,
+      "change": -0.028673808171997717,
+      "relative_volume": 0.845350839859515,
+      "dollar_volume": 191037043.77167463,
+      "momentum": -0.055749077976336214,
+      "signals": [],
+      "eligible": true,
+      "exclusions": [],
+      "source": "https://finance.yahoo.com/quote/GRAB/history/"
+    },
+    {
+      "symbol": "TLRY",
+      "date": "2026-10-26",
+      "price": 2.7200000286102295,
+      "change": -0.03202843985836068,
+      "relative_volume": 0.7473544973544973,
+      "dollar_volume": 15549511.733624935,
+      "momentum": -0.10231021310450816,
+      "signals": [],
+      "eligible": true,
+      "exclusions": [],
+      "source": "https://finance.yahoo.com/quote/TLRY/history/"
+    },
+    {
+      "symbol": "JOBY",
+      "date": "2026-10-26",
+      "price": 4.690000057220459,
+      "change": -0.0147059177091301,
+      "relative_volume": 0.7065476529544902,
+      "dollar_volume": 117433273.95804882,
+      "momentum": 0.01735356212344996,
+      "signals": [],
+      "eligible": true,
+      "exclusions": [],
+      "source": "https://finance.yahoo.com/quote/JOBY/history/"
+    },
+    {
+      "symbol": "ACHR",
+      "date": "2026-10-26",
+      "price": 3.940000057220459,
+      "change": 0.007672626785479197,
+      "relative_volume": 0.6832320482700627,
+      "dollar_volume": 104657296.80701494,
+      "momentum": -0.02475245187544539,
+      "signals": [],
+      "eligible": true,
+      "exclusions": [],
+      "source": "https://finance.yahoo.com/quote/ACHR/history/"
+    },
+    {
+      "symbol": "BBAI",
+      "date": "2026-10-26",
+      "price": 2.119999885559082,
+      "change": -0.009345896432088385,
+      "relative_volume": 0.675453770369271,
+      "dollar_volume": 40177277.18109012,
+      "momentum": 0.0,
+      "signals": [],
+      "eligible": true,
+      "exclusions": [],
+      "source": "https://finance.yahoo.com/quote/BBAI/history/"
+    },
+    {
+      "symbol": "LCID",
+      "date": "2026-10-26",
+      "price": 3.4000000953674316,
+      "change": -0.03409087676400968,
+      "relative_volume": 0.6488161449964889,
+      "dollar_volume": 39060820.22458434,
+      "momentum": 0.09854606266164034,
+      "signals": [],
+      "eligible": true,
+      "exclusions": [],
+      "source": "https://finance.yahoo.com/quote/LCID/history/"
+    },
+    {
+      "symbol": "NIO",
+      "date": "2026-10-26",
+      "price": 3.259999990463257,
+      "change": -0.009118532443044058,
+      "relative_volume": 0.607511732436669,
+      "dollar_volume": 107650377.22895741,
+      "momentum": -0.038348115167563646,
+      "signals": [],
+      "eligible": true,
+      "exclusions": [],
+      "source": "https://finance.yahoo.com/quote/NIO/history/"
+    },
+    {
+      "symbol": "CLOV",
+      "date": "2026-10-26",
+      "price": 4.559999942779541,
+      "change": -0.008695644061371466,
+      "relative_volume": 0.592759448338921,
+      "dollar_volume": 19334889.66994047,
+      "momentum": 0.02702700090373522,
+      "signals": [],
+      "eligible": true,
+      "exclusions": [],
+      "source": "https://finance.yahoo.com/quote/CLOV/history/"
+    },
+    {
+      "symbol": "RXRX",
+      "date": "2026-10-26",
+      "price": 3.799999952316284,
+      "change": 0.02702700090373522,
+      "relative_volume": 0.5168304306630995,
+      "dollar_volume": 127725000.44786096,
+      "momentum": 0.05263159632734982,
+      "signals": [],
+      "eligible": true,
+      "exclusions": [],
+      "source": "https://finance.yahoo.com/quote/RXRX/history/"
+    },
+    {
+      "symbol": "GPRO",
+      "date": "2026-10-26",
+      "price": 1.0299999713897705,
+      "change": 0.019801961500356402,
+      "relative_volume": 0.459747905916289,
+      "dollar_volume": 9678981.809298992,
+      "momentum": -0.0096153757981291,
+      "signals": [],
+      "eligible": true,
+      "exclusions": [],
+      "source": "https://finance.yahoo.com/quote/GPRO/history/"
+    },
+    {
+      "symbol": "CGC",
+      "date": "2026-10-26",
+      "price": 0.6679999828338623,
+      "change": -0.011834343526256674,
+      "relative_volume": 0.45163764956825175,
+      "dollar_volume": 2100720.7250258327,
+      "momentum": -0.06703915683738093,
+      "signals": [],
+      "eligible": true,
+      "exclusions": [],
+      "source": "https://finance.yahoo.com/quote/CGC/history/"
+    },
+    {
+      "symbol": "RIG",
+      "date": "2026-10-26",
+      "price": 6.53000020980835,
+      "change": 0.01872080581167057,
+      "relative_volume": 1.570128749456066,
+      "dollar_volume": 228318135.47399044,
+      "momentum": 0.10865880438544462,
+      "signals": [],
+      "eligible": false,
+      "exclusions": [
+        "Outside $0.25\u2013$5 band"
+      ],
+      "source": "https://finance.yahoo.com/quote/RIG/history/"
+    },
+    {
+      "symbol": "RIOT",
+      "date": "2026-10-26",
+      "price": 12.59000015258789,
+      "change": 0.004788541172815464,
+      "relative_volume": 1.2059372642896167,
+      "dollar_volume": 274880238.9272404,
+      "momentum": -0.0987831129608433,
+      "signals": [],
+      "eligible": false,
+      "exclusions": [
+        "Outside $0.25\u2013$5 band"
+      ],
+      "source": "https://finance.yahoo.com/quote/RIOT/history/"
+    },
+    {
+      "symbol": "RIVN",
+      "date": "2026-10-26",
+      "price": 11.430000305175781,
+      "change": -0.033812309476749625,
+      "relative_volume": 0.9914760490355272,
+      "dollar_volume": 344415859.9936962,
+      "momentum": -0.07374390892704064,
+      "signals": [],
+      "eligible": false,
+      "exclusions": [
+        "Outside $0.25\u2013$5 band"
+      ],
+      "source": "https://finance.yahoo.com/quote/RIVN/history/"
+    },
+    {
+      "symbol": "MARA",
+      "date": "2026-10-26",
+      "price": 6.840000152587891,
+      "change": -0.025641001257505125,
+      "relative_volume": 0.965249763693345,
+      "dollar_volume": 328415725.91367006,
+      "momentum": -0.07317072540369951,
+      "signals": [],
+      "eligible": false,
+      "exclusions": [
+        "Outside $0.25\u2013$5 band"
+      ],
+      "source": "https://finance.yahoo.com/quote/MARA/history/"
+    },
+    {
+      "symbol": "SOFI",
+      "date": "2026-10-26",
+      "price": 14.460000038146973,
+      "change": -0.010605524146329315,
+      "relative_volume": 0.9395818408261785,
+      "dollar_volume": 689985897.9344368,
+      "momentum": 0.011188800369091867,
+      "signals": [],
+      "eligible": false,
+      "exclusions": [
+        "Outside $0.25\u2013$5 band"
+      ],
+      "source": "https://finance.yahoo.com/quote/SOFI/history/"
+    },
+    {
+      "symbol": "FCEL",
+      "date": "2026-10-26",
+      "price": 11.460000038146973,
+      "change": 0.03150318562425625,
+      "relative_volume": 0.7975711409413824,
+      "dollar_volume": 117980450.77588558,
+      "momentum": -0.11093873290054224,
+      "signals": [],
+      "eligible": false,
+      "exclusions": [
+        "Outside $0.25\u2013$5 band"
+      ],
+      "source": "https://finance.yahoo.com/quote/FCEL/history/"
+    },
+    {
+      "symbol": "BLNK",
+      "date": "2026-10-26",
+      "price": 0.37700000405311584,
+      "change": -0.013088992777461783,
+      "relative_volume": 0.7079991223151376,
+      "dollar_volume": 672896.567607075,
+      "momentum": -0.10451306261970483,
+      "signals": [],
+      "eligible": false,
+      "exclusions": [
+        "Average daily dollar volume below $1M"
+      ],
+      "source": "https://finance.yahoo.com/quote/BLNK/history/"
+    },
+    {
+      "symbol": "CHPT",
+      "date": "2026-10-26",
+      "price": 8.239999771118164,
+      "change": -0.013173725188764696,
+      "relative_volume": 0.630708442538321,
+      "dollar_volume": 8440285.801928043,
+      "momentum": 0.1524475050646441,
+      "signals": [],
+      "eligible": false,
+      "exclusions": [
+        "Outside $0.25\u2013$5 band"
+      ],
+      "source": "https://finance.yahoo.com/quote/CHPT/history/"
+    },
+    {
+      "symbol": "HIMS",
+      "date": "2026-10-26",
+      "price": 27.59000015258789,
+      "change": -0.004330528179338988,
+      "relative_volume": 0.5777850565010897,
+      "dollar_volume": 289169836.41572,
+      "momentum": -0.01989340936167372,
+      "signals": [],
+      "eligible": false,
+      "exclusions": [
+        "Outside $0.25\u2013$5 band"
+      ],
+      "source": "https://finance.yahoo.com/quote/HIMS/history/"
+    },
+    {
+      "symbol": "DNA",
+      "date": "2026-10-26",
+      "price": 10.020000457763672,
+      "change": 0.003003071805090629,
+      "relative_volume": 0.34594856667361235,
+      "dollar_volume": 44100617.69990444,
+      "momentum": -0.00496516768379307,
+      "signals": [],
+      "eligible": false,
+      "exclusions": [
+        "Outside $0.25\u2013$5 band"
+      ],
+      "source": "https://finance.yahoo.com/quote/DNA/history/"
+    },
+    {
+      "symbol": "BNGO",
+      "date": "2026-10-26",
+      "price": 1.159999966621399,
+      "change": 0.026548647359614375,
+      "relative_volume": 0.21655387818844352,
+      "dollar_volume": 412336.20061695576,
+      "momentum": -0.049180377526039876,
+      "signals": [],
+      "eligible": false,
+      "exclusions": [
+        "Average daily dollar volume below $1M"
+      ],
+      "source": "https://finance.yahoo.com/quote/BNGO/history/"
+    }
+  ],
+  "selected": "pullback"
+}
