@@ -1,0 +1,1 @@
+{"updated_at":null,"market_as_of":null,"market_status":"unavailable","whale_status":"unavailable","universe_count":30,"screen":[],"whales":[],"research":{"status":"not_run","strategies":[]},"errors":["Initial market refresh has not completed.","SEC_USER_AGENT must be configured in GitHub Actions secrets for SEC requests."]}
