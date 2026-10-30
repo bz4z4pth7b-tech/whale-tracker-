@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-30T06:03:33.443033+00:00",
+  "updated_at": "2026-10-30T15:07:48.408802+00:00",
   "market_as_of": "2026-10-29",
-  "market_fetched_at": "2026-10-30T06:03:33.443033+00:00",
+  "market_fetched_at": "2026-10-30T15:07:48.408802+00:00",
   "market_status": "partial",
   "whale_fetched_at": null,
-  "whale_checked_at": "2026-10-30T06:03:33.443033+00:00",
+  "whale_checked_at": "2026-10-30T15:07:48.408802+00:00",
   "whale_status": "unavailable",
   "managers": [
     {
