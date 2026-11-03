@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-02T18:33:58.199509+00:00",
-  "market_as_of": "2026-10-30",
-  "market_fetched_at": "2026-11-02T18:33:58.199509+00:00",
+  "updated_at": "2026-11-03T02:28:31.321082+00:00",
+  "market_as_of": "2026-11-02",
+  "market_fetched_at": "2026-11-03T02:28:31.321082+00:00",
   "market_status": "partial",
   "whale_fetched_at": null,
-  "whale_checked_at": "2026-11-02T18:33:58.199509+00:00",
+  "whale_checked_at": "2026-11-03T02:28:31.321082+00:00",
   "whale_status": "unavailable",
   "managers": [
     {
@@ -60,74 +60,119 @@
   "screen": [
     {
       "symbol": "KOS",
-      "date": "2026-10-30",
-      "price": 2.8499999046325684,
-      "volume": 26184200,
-      "daily_dollar_volume": 74624967.5028801,
-      "change": 0.06343277374655654,
-      "relative_volume": 2.060180185709065,
-      "dollar_volume": 34414467.73397088,
-      "momentum": -0.006968634747042013,
+      "date": "2026-11-02",
+      "price": 2.4700000286102295,
+      "volume": 39386800,
+      "daily_dollar_volume": 97285397.12686539,
+      "change": -0.1333332942940325,
+      "relative_volume": 2.935004014627776,
+      "dollar_volume": 36641724.1148293,
+      "momentum": -0.1333332942940325,
       "signals": [],
       "eligible": true,
       "exclusions": [],
       "source": "https://finance.yahoo.com/quote/KOS/history/"
     },
     {
-      "symbol": "GPRO",
-      "date": "2026-10-30",
-      "price": 0.9300000071525574,
-      "volume": 10141400,
-      "daily_dollar_volume": 9431502.072536945,
-      "change": -0.06999999284744263,
-      "relative_volume": 1.512100351432793,
-      "dollar_volume": 7751408.220195174,
-      "momentum": -0.07920790501592567,
-      "signals": [],
-      "eligible": true,
-      "exclusions": [],
-      "source": "https://finance.yahoo.com/quote/GPRO/history/"
-    },
-    {
       "symbol": "BBAI",
-      "date": "2026-10-30",
-      "price": 2.5999999046325684,
-      "volume": 26032800,
-      "daily_dollar_volume": 67685277.51731873,
-      "change": -0.026217292007923665,
-      "relative_volume": 1.3480981587467298,
-      "dollar_volume": 45966788.119831085,
-      "momentum": 0.21495316690603228,
+      "date": "2026-11-02",
+      "price": 2.5799999237060547,
+      "volume": 25352200,
+      "daily_dollar_volume": 65408674.06578064,
+      "change": -0.0076923006385033466,
+      "relative_volume": 1.3099833773142968,
+      "dollar_volume": 46013609.124765396,
+      "momentum": 0.21698116178230942,
       "signals": [],
       "eligible": true,
       "exclusions": [],
       "source": "https://finance.yahoo.com/quote/BBAI/history/"
     },
     {
+      "symbol": "GPRO",
+      "date": "2026-11-02",
+      "price": 0.9549999833106995,
+      "volume": 8602300,
+      "daily_dollar_volume": 8215196.35643363,
+      "change": 0.026881694586956106,
+      "relative_volume": 1.2580213981947832,
+      "dollar_volume": 7715464.314858913,
+      "momentum": -0.07281552442945627,
+      "signals": [],
+      "eligible": true,
+      "exclusions": [],
+      "source": "https://finance.yahoo.com/quote/GPRO/history/"
+    },
+    {
+      "symbol": "CLOV",
+      "date": "2026-11-02",
+      "price": 4.309999942779541,
+      "volume": 5004800,
+      "daily_dollar_volume": 21570687.713623047,
+      "change": -0.03363230809068629,
+      "relative_volume": 1.1856035211818132,
+      "dollar_volume": 19663647.690091133,
+      "momentum": -0.054824562091466356,
+      "signals": [],
+      "eligible": true,
+      "exclusions": [],
+      "source": "https://finance.yahoo.com/quote/CLOV/history/"
+    },
+    {
+      "symbol": "SOUN",
+      "date": "2026-11-02",
+      "price": 4.090000152587891,
+      "volume": 17198800,
+      "daily_dollar_volume": 70343094.62432861,
+      "change": -0.030805602859486414,
+      "relative_volume": 1.1582408864662905,
+      "dollar_volume": 72097368.57577562,
+      "momentum": -0.035377270431011354,
+      "signals": [],
+      "eligible": true,
+      "exclusions": [],
+      "source": "https://finance.yahoo.com/quote/SOUN/history/"
+    },
+    {
       "symbol": "LCID",
-      "date": "2026-10-30",
-      "price": 3.0199999809265137,
-      "volume": 14322200,
-      "daily_dollar_volume": 43253043.726825714,
-      "change": -0.05625002002343504,
-      "relative_volume": 1.3307941864749082,
-      "dollar_volume": 37594404.105814695,
-      "momentum": -0.14204545531514268,
+      "date": "2026-11-02",
+      "price": 3.0,
+      "volume": 12690400,
+      "daily_dollar_volume": 38071200.0,
+      "change": -0.006622510282393357,
+      "relative_volume": 1.143722342889588,
+      "dollar_volume": 38174950.69811702,
+      "momentum": -0.11764708357286224,
       "signals": [],
       "eligible": true,
       "exclusions": [],
       "source": "https://finance.yahoo.com/quote/LCID/history/"
     },
     {
+      "symbol": "GRAB",
+      "date": "2026-11-02",
+      "price": 2.859999895095825,
+      "volume": 67334000,
+      "daily_dollar_volume": 192575232.9363823,
+      "change": 0.05535049993999941,
+      "relative_volume": 1.1209711198523795,
+      "dollar_volume": 176965215.94664335,
+      "momentum": 0.05535049993999941,
+      "signals": [],
+      "eligible": true,
+      "exclusions": [],
+      "source": "https://finance.yahoo.com/quote/GRAB/history/"
+    },
+    {
       "symbol": "NIO",
-      "date": "2026-10-30",
-      "price": 3.2100000381469727,
-      "volume": 34758000,
-      "daily_dollar_volume": 111573181.32591248,
-      "change": -0.0331324991890537,
-      "relative_volume": 1.2076169716080765,
-      "dollar_volume": 98461316.84872627,
-      "momentum": -0.02431608651478412,
+      "date": "2026-11-02",
+      "price": 3.190000057220459,
+      "volume": 31114800,
+      "daily_dollar_volume": 99256213.78040314,
+      "change": -0.006230523579077274,
+      "relative_volume": 1.0708927651375786,
+      "dollar_volume": 99101040.13387203,
+      "momentum": -0.021472372223182323,
       "signals": [],
       "eligible": true,
       "exclusions": [],
@@ -135,181 +180,134 @@
     },
     {
       "symbol": "TLRY",
-      "date": "2026-10-30",
-      "price": 2.5299999713897705,
-      "volume": 4926100,
-      "daily_dollar_volume": 12463032.859063148,
-      "change": -0.0416667155846181,
-      "relative_volume": 1.1420920540894575,
-      "dollar_volume": 13773486.947728395,
-      "momentum": -0.09964411996137112,
+      "date": "2026-11-02",
+      "price": 2.549999952316284,
+      "volume": 4595400,
+      "daily_dollar_volume": 11718269.780874252,
+      "change": 0.007905130890387913,
+      "relative_volume": 1.0555935847548341,
+      "dollar_volume": 13652437.112307549,
+      "momentum": -0.06250002739184013,
       "signals": [],
       "eligible": true,
       "exclusions": [],
       "source": "https://finance.yahoo.com/quote/TLRY/history/"
     },
     {
-      "symbol": "CLOV",
-      "date": "2026-10-30",
-      "price": 4.460000038146973,
-      "volume": 4650400,
-      "daily_dollar_volume": 20740784.17739868,
-      "change": -0.02620084881180096,
-      "relative_volume": 1.112119505496148,
-      "dollar_volume": 19470963.003282547,
-      "momentum": -0.03043475421480002,
-      "signals": [],
-      "eligible": true,
-      "exclusions": [],
-      "source": "https://finance.yahoo.com/quote/CLOV/history/"
-    },
-    {
       "symbol": "SNDL",
-      "date": "2026-10-30",
-      "price": 1.2400000095367432,
-      "volume": 1381900,
-      "daily_dollar_volume": 1713556.0131788254,
-      "change": -0.04615380383101986,
-      "relative_volume": 1.0755089969491314,
-      "dollar_volume": 1590881.7091274261,
-      "momentum": -0.03875965410453308,
+      "date": "2026-11-02",
+      "price": 1.2699999809265137,
+      "volume": 1233300,
+      "daily_dollar_volume": 1566290.9764766693,
+      "change": 0.024193525128260562,
+      "relative_volume": 0.9536623557385606,
+      "dollar_volume": 1601229.5092070103,
+      "momentum": 0.0,
       "signals": [],
       "eligible": true,
       "exclusions": [],
       "source": "https://finance.yahoo.com/quote/SNDL/history/"
     },
     {
-      "symbol": "SOUN",
-      "date": "2026-10-30",
-      "price": 4.21999979019165,
-      "volume": 16136700,
-      "daily_dollar_volume": 68096870.6143856,
-      "change": -0.03211016950357426,
-      "relative_volume": 1.0599367717602424,
-      "dollar_volume": 75598734.12618876,
-      "momentum": -0.047404073653368184,
-      "signals": [],
-      "eligible": true,
-      "exclusions": [],
-      "source": "https://finance.yahoo.com/quote/SOUN/history/"
-    },
-    {
-      "symbol": "CGC",
-      "date": "2026-10-30",
-      "price": 0.652999997138977,
-      "volume": 2280900,
-      "daily_dollar_volume": 1489427.6934742928,
-      "change": -0.032592613916174296,
-      "relative_volume": 0.9363992413232505,
-      "dollar_volume": 1832210.7334381342,
-      "momentum": -0.034023671508574216,
-      "signals": [],
-      "eligible": true,
-      "exclusions": [],
-      "source": "https://finance.yahoo.com/quote/CGC/history/"
-    },
-    {
       "symbol": "OPEN",
-      "date": "2026-10-30",
+      "date": "2026-11-02",
       "price": 1.7999999523162842,
-      "volume": 31810700,
-      "daily_dollar_volume": 57259258.48314762,
-      "change": -0.052631592156154094,
-      "relative_volume": 0.9203158804084365,
-      "dollar_volume": 73080525.41184008,
-      "momentum": -0.0909091237491153,
+      "volume": 31348800,
+      "daily_dollar_volume": 56427838.50517273,
+      "change": 0.0,
+      "relative_volume": 0.9040217965547233,
+      "dollar_volume": 72331196.45060956,
+      "momentum": -0.06735751231330078,
       "signals": [],
       "eligible": true,
       "exclusions": [],
       "source": "https://finance.yahoo.com/quote/OPEN/history/"
     },
     {
-      "symbol": "GRAB",
-      "date": "2026-10-30",
-      "price": 2.7100000381469727,
-      "volume": 54827100,
-      "daily_dollar_volume": 148581443.09148788,
-      "change": -0.018115924814873563,
-      "relative_volume": 0.9054775453472871,
-      "dollar_volume": 179468262.89565802,
-      "momentum": -0.028673808171997717,
-      "signals": [],
-      "eligible": true,
-      "exclusions": [],
-      "source": "https://finance.yahoo.com/quote/GRAB/history/"
-    },
-    {
       "symbol": "ACHR",
-      "date": "2026-10-30",
-      "price": 4.199999809265137,
-      "volume": 18936000,
-      "daily_dollar_volume": 79531196.38824463,
-      "change": -0.041095959012037,
-      "relative_volume": 0.8169301614446584,
-      "dollar_volume": 101809538.85017633,
-      "momentum": 0.0741687255929655,
+      "date": "2026-11-02",
+      "price": 4.170000076293945,
+      "volume": 20542800,
+      "daily_dollar_volume": 85663477.56729126,
+      "change": -0.0071427938889455644,
+      "relative_volume": 0.8967639701934285,
+      "dollar_volume": 99825208.33210707,
+      "momentum": 0.058375638510965944,
       "signals": [],
       "eligible": true,
       "exclusions": [],
       "source": "https://finance.yahoo.com/quote/ACHR/history/"
     },
     {
-      "symbol": "RXRX",
-      "date": "2026-10-30",
-      "price": 4.03000020980835,
-      "volume": 24388700,
-      "daily_dollar_volume": 98286466.1169529,
-      "change": -0.04952820109573586,
-      "relative_volume": 0.7802879604812192,
-      "dollar_volume": 128827469.10007,
-      "momentum": 0.08918923185723249,
-      "signals": [
-        "pullback"
-      ],
-      "eligible": true,
-      "exclusions": [],
-      "source": "https://finance.yahoo.com/quote/RXRX/history/"
-    },
-    {
-      "symbol": "JOBY",
-      "date": "2026-10-30",
-      "price": 4.900000095367432,
-      "volume": 16224200,
-      "daily_dollar_volume": 79498581.54726028,
-      "change": -0.03543303760668293,
-      "relative_volume": 0.7603811794855211,
-      "dollar_volume": 109437758.0706954,
-      "momentum": 0.02941173524239149,
-      "signals": [],
-      "eligible": true,
-      "exclusions": [],
-      "source": "https://finance.yahoo.com/quote/JOBY/history/"
-    },
-    {
       "symbol": "PLUG",
-      "date": "2026-10-30",
-      "price": 1.3700000047683716,
-      "volume": 33926100,
-      "daily_dollar_volume": 46478757.16177225,
-      "change": -0.0352112350897088,
-      "relative_volume": 0.6893039545970155,
-      "dollar_volume": 75615757.9994154,
-      "momentum": -0.007246369925949403,
+      "date": "2026-11-02",
+      "price": 1.309999942779541,
+      "volume": 43956200,
+      "daily_dollar_volume": 57582619.48480606,
+      "change": -0.0437956655328442,
+      "relative_volume": 0.8956359442685347,
+      "dollar_volume": 74448217.25144267,
+      "momentum": -0.0437956655328442,
       "signals": [],
       "eligible": true,
       "exclusions": [],
       "source": "https://finance.yahoo.com/quote/PLUG/history/"
     },
     {
+      "symbol": "CGC",
+      "date": "2026-11-02",
+      "price": 0.6809999942779541,
+      "volume": 1905100,
+      "daily_dollar_volume": 1297373.0890989304,
+      "change": 0.042879015714632374,
+      "relative_volume": 0.7782843509735193,
+      "dollar_volume": 1817392.7431118488,
+      "momentum": 0.019461095476292822,
+      "signals": [],
+      "eligible": true,
+      "exclusions": [],
+      "source": "https://finance.yahoo.com/quote/CGC/history/"
+    },
+    {
+      "symbol": "JOBY",
+      "date": "2026-11-02",
+      "price": 4.809999942779541,
+      "volume": 15814200,
+      "daily_dollar_volume": 76066301.09510422,
+      "change": -0.018367377721681843,
+      "relative_volume": 0.7431069409182475,
+      "dollar_volume": 108252528.8139081,
+      "momentum": 0.025586329231347626,
+      "signals": [],
+      "eligible": true,
+      "exclusions": [],
+      "source": "https://finance.yahoo.com/quote/JOBY/history/"
+    },
+    {
+      "symbol": "RXRX",
+      "date": "2026-11-02",
+      "price": 3.8299999237060547,
+      "volume": 22527500,
+      "daily_dollar_volume": 86280323.28128815,
+      "change": -0.0496278599726937,
+      "relative_volume": 0.7143703147938474,
+      "dollar_volume": 129866011.66399479,
+      "momentum": 0.007894729412163404,
+      "signals": [],
+      "eligible": true,
+      "exclusions": [],
+      "source": "https://finance.yahoo.com/quote/RXRX/history/"
+    },
+    {
       "symbol": "RIVN",
-      "date": "2026-10-30",
-      "price": 12.15999984741211,
-      "volume": 62609900,
-      "daily_dollar_volume": 761336374.4464874,
-      "change": 0.062008737989013074,
-      "relative_volume": 2.371690882688239,
-      "dollar_volume": 341496459.6979475,
-      "momentum": 0.027895175472044675,
+      "date": "2026-11-02",
+      "price": 13.1899995803833,
+      "volume": 65190900,
+      "daily_dollar_volume": 859867943.6448097,
+      "change": 0.08470392647170932,
+      "relative_volume": 2.4608841280827396,
+      "dollar_volume": 336102933.9391422,
+      "momentum": 0.15398068488331962,
       "signals": [],
       "eligible": false,
       "exclusions": [
@@ -318,15 +316,117 @@
       "source": "https://finance.yahoo.com/quote/RIVN/history/"
     },
     {
+      "symbol": "BLNK",
+      "date": "2026-11-02",
+      "price": 0.4259999990463257,
+      "volume": 2276500,
+      "daily_dollar_volume": 969788.9978289604,
+      "change": 0.06234415558982698,
+      "relative_volume": 1.5678590614195789,
+      "dollar_volume": 645679.64055866,
+      "momentum": 0.12997346012310973,
+      "signals": [],
+      "eligible": false,
+      "exclusions": [
+        "Average daily dollar volume below $1M"
+      ],
+      "source": "https://finance.yahoo.com/quote/BLNK/history/"
+    },
+    {
+      "symbol": "CHPT",
+      "date": "2026-11-02",
+      "price": 9.880000114440918,
+      "volume": 1376500,
+      "daily_dollar_volume": 13599820.157527924,
+      "change": 0.03563942913495044,
+      "relative_volume": 1.5486476756221592,
+      "dollar_volume": 7192943.00173521,
+      "momentum": 0.1990291734073928,
+      "signals": [],
+      "eligible": false,
+      "exclusions": [
+        "Outside $0.25\u2013$5 band"
+      ],
+      "source": "https://finance.yahoo.com/quote/CHPT/history/"
+    },
+    {
+      "symbol": "HIMS",
+      "date": "2026-11-02",
+      "price": 25.239999771118164,
+      "volume": 10731200,
+      "daily_dollar_volume": 270855485.54382324,
+      "change": -0.08815030733946094,
+      "relative_volume": 1.0910647418085249,
+      "dollar_volume": 285050147.1583557,
+      "momentum": -0.08517580168441208,
+      "signals": [],
+      "eligible": false,
+      "exclusions": [
+        "Outside $0.25\u2013$5 band"
+      ],
+      "source": "https://finance.yahoo.com/quote/HIMS/history/"
+    },
+    {
+      "symbol": "RIG",
+      "date": "2026-11-02",
+      "price": 6.230000019073486,
+      "volume": 45633600,
+      "daily_dollar_volume": 284297328.87039185,
+      "change": -0.10230548015749363,
+      "relative_volume": 1.0723679649763067,
+      "dollar_volume": 255428477.22085,
+      "momentum": -0.04594183477731739,
+      "signals": [],
+      "eligible": false,
+      "exclusions": [
+        "Outside $0.25\u2013$5 band"
+      ],
+      "source": "https://finance.yahoo.com/quote/RIG/history/"
+    },
+    {
+      "symbol": "DNA",
+      "date": "2026-11-02",
+      "price": 9.850000381469727,
+      "volume": 3546100,
+      "daily_dollar_volume": 34929086.3527298,
+      "change": -0.12132021873766696,
+      "relative_volume": 1.0041455941735147,
+      "dollar_volume": 42305991.378068924,
+      "momentum": -0.01696607470334255,
+      "signals": [],
+      "eligible": false,
+      "exclusions": [
+        "Outside $0.25\u2013$5 band"
+      ],
+      "source": "https://finance.yahoo.com/quote/DNA/history/"
+    },
+    {
+      "symbol": "SOFI",
+      "date": "2026-11-02",
+      "price": 16.600000381469727,
+      "volume": 54425600,
+      "daily_dollar_volume": 903464980.7617188,
+      "change": -0.009546530144813992,
+      "relative_volume": 0.9890406239073879,
+      "dollar_volume": 858699112.4737692,
+      "momentum": 0.14799449084904648,
+      "signals": [],
+      "eligible": false,
+      "exclusions": [
+        "Outside $0.25\u2013$5 band"
+      ],
+      "source": "https://finance.yahoo.com/quote/SOFI/history/"
+    },
+    {
       "symbol": "RIOT",
-      "date": "2026-10-30",
-      "price": 12.8100004196167,
-      "volume": 25705700,
-      "daily_dollar_volume": 329290027.786541,
-      "change": -0.06768554344930544,
-      "relative_volume": 1.44973945724654,
-      "dollar_volume": 272618025.64994335,
-      "momentum": 0.022346423991432385,
+      "date": "2026-11-02",
+      "price": 11.84000015258789,
+      "volume": 17708300,
+      "daily_dollar_volume": 209666274.70207214,
+      "change": -0.07572211048044863,
+      "relative_volume": 0.9736126200226081,
+      "dollar_volume": 272734874.61910725,
+      "momentum": -0.0595710874432227,
       "signals": [],
       "eligible": false,
       "exclusions": [
@@ -336,14 +436,14 @@
     },
     {
       "symbol": "MARA",
-      "date": "2026-10-30",
-      "price": 6.769999980926514,
-      "volume": 43070900,
-      "daily_dollar_volume": 291589992.1784878,
-      "change": -0.05578801828607305,
-      "relative_volume": 1.2005138102890551,
-      "dollar_volume": 307300336.2805462,
-      "momentum": -0.03561253570929557,
+      "date": "2026-11-02",
+      "price": 6.429999828338623,
+      "volume": 30340900,
+      "daily_dollar_volume": 195091981.79163933,
+      "change": -0.0502215884114906,
+      "relative_volume": 0.8446783155876806,
+      "dollar_volume": 298164212.207005,
+      "momentum": -0.05994156653551319,
       "signals": [],
       "eligible": false,
       "exclusions": [
@@ -352,117 +452,15 @@
       "source": "https://finance.yahoo.com/quote/MARA/history/"
     },
     {
-      "symbol": "SOFI",
-      "date": "2026-10-30",
-      "price": 16.760000228881836,
-      "volume": 64168800,
-      "daily_dollar_volume": 1075469102.6870728,
-      "change": -0.0482680495178448,
-      "relative_volume": 1.1819400166657212,
-      "dollar_volume": 843884008.9220476,
-      "momentum": 0.1467670538047201,
-      "signals": [],
-      "eligible": false,
-      "exclusions": [
-        "Outside $0.25\u2013$5 band"
-      ],
-      "source": "https://finance.yahoo.com/quote/SOFI/history/"
-    },
-    {
-      "symbol": "RIG",
-      "date": "2026-10-30",
-      "price": 6.940000057220459,
-      "volume": 47678200,
-      "daily_dollar_volume": 330886710.7281685,
-      "change": 0.037369207453171516,
-      "relative_volume": 1.1460536874792153,
-      "dollar_volume": 246282627.44373798,
-      "momentum": 0.08268334203195415,
-      "signals": [],
-      "eligible": false,
-      "exclusions": [
-        "Outside $0.25\u2013$5 band"
-      ],
-      "source": "https://finance.yahoo.com/quote/RIG/history/"
-    },
-    {
-      "symbol": "HIMS",
-      "date": "2026-10-30",
-      "price": 27.68000030517578,
-      "volume": 10840000,
-      "daily_dollar_volume": 300051203.30810547,
-      "change": -0.06707110771826907,
-      "relative_volume": 1.1065069036741848,
-      "dollar_volume": 284637739.1926575,
-      "momentum": -0.0010825976285825378,
-      "signals": [],
-      "eligible": false,
-      "exclusions": [
-        "Outside $0.25\u2013$5 band"
-      ],
-      "source": "https://finance.yahoo.com/quote/HIMS/history/"
-    },
-    {
-      "symbol": "CHPT",
-      "date": "2026-10-30",
-      "price": 9.539999961853027,
-      "volume": 896300,
-      "daily_dollar_volume": 8550701.965808868,
-      "change": 0.029126158657654555,
-      "relative_volume": 0.966950217652802,
-      "dollar_volume": 7535641.8002820015,
-      "momentum": 0.14251491329558985,
-      "signals": [],
-      "eligible": false,
-      "exclusions": [
-        "Outside $0.25\u2013$5 band"
-      ],
-      "source": "https://finance.yahoo.com/quote/CHPT/history/"
-    },
-    {
-      "symbol": "BNGO",
-      "date": "2026-10-30",
-      "price": 1.149999976158142,
-      "volume": 196200,
-      "daily_dollar_volume": 225629.99532222748,
-      "change": -0.041666724615624595,
-      "relative_volume": 0.9426574098541812,
-      "dollar_volume": 275266.30270183086,
-      "momentum": 0.017699098239742916,
-      "signals": [],
-      "eligible": false,
-      "exclusions": [
-        "Average daily dollar volume below $1M"
-      ],
-      "source": "https://finance.yahoo.com/quote/BNGO/history/"
-    },
-    {
-      "symbol": "DNA",
-      "date": "2026-10-30",
-      "price": 11.210000038146973,
-      "volume": 2729300,
-      "daily_dollar_volume": 30595453.104114532,
-      "change": -0.12009417272045264,
-      "relative_volume": 0.7804689734057764,
-      "dollar_volume": 42035980.51177502,
-      "momentum": 0.12212215164968487,
-      "signals": [],
-      "eligible": false,
-      "exclusions": [
-        "Outside $0.25\u2013$5 band"
-      ],
-      "source": "https://finance.yahoo.com/quote/DNA/history/"
-    },
-    {
       "symbol": "FCEL",
-      "date": "2026-10-30",
-      "price": 11.220000267028809,
-      "volume": 5081500,
-      "daily_dollar_volume": 57014431.35690689,
-      "change": -0.07881773514726675,
-      "relative_volume": 0.6695306565722112,
-      "dollar_volume": 114622109.3969202,
-      "momentum": 0.009901045342107784,
+      "date": "2026-11-02",
+      "price": 10.5,
+      "volume": 4351500,
+      "daily_dollar_volume": 45690750.0,
+      "change": -0.06417114526677936,
+      "relative_volume": 0.5834013174962075,
+      "dollar_volume": 110364189.97903824,
+      "momentum": -0.08376963655771508,
       "signals": [],
       "eligible": false,
       "exclusions": [
@@ -471,27 +469,27 @@
       "source": "https://finance.yahoo.com/quote/FCEL/history/"
     },
     {
-      "symbol": "BLNK",
-      "date": "2026-10-30",
-      "price": 0.4009999930858612,
-      "volume": 785000,
-      "daily_dollar_volume": 314784.99457240105,
-      "change": -0.02669904703457493,
-      "relative_volume": 0.5383570850535614,
-      "dollar_volume": 655415.4003536701,
-      "momentum": 0.04973820376097504,
+      "symbol": "BNGO",
+      "date": "2026-11-02",
+      "price": 1.159999966621399,
+      "volume": 89100,
+      "daily_dollar_volume": 103355.99702596664,
+      "change": 0.008695644061371466,
+      "relative_volume": 0.44824550371022515,
+      "dollar_volume": 258176.2021023035,
+      "momentum": 0.0,
       "signals": [],
       "eligible": false,
       "exclusions": [
         "Average daily dollar volume below $1M"
       ],
-      "source": "https://finance.yahoo.com/quote/BLNK/history/"
+      "source": "https://finance.yahoo.com/quote/BNGO/history/"
     }
   ],
   "whales": [],
   "research": {
     "status": "historical_research",
-    "split_date": "2026-01-15",
+    "split_date": "2026-01-16",
     "selection": "Highest training return; never selected on test returns",
     "selected": "pullback",
     "strategies": [
@@ -505,10 +503,6 @@
         "win_rate": 0.35714285714285715,
         "profit_factor": 0.5069027516261716,
         "curve": [
-          {
-            "date": "2026-01-15",
-            "equity": 1.0
-          },
           {
             "date": "2026-01-16",
             "equity": 1.0
@@ -1304,6 +1298,10 @@
           {
             "date": "2026-10-30",
             "equity": 0.9709076666959199
+          },
+          {
+            "date": "2026-11-02",
+            "equity": 0.9709076666959199
           }
         ],
         "trade_log": [
@@ -1516,10 +1514,6 @@
         "win_rate": 0.37777777777777777,
         "profit_factor": 0.5728509391948072,
         "curve": [
-          {
-            "date": "2026-01-15",
-            "equity": 1.0
-          },
           {
             "date": "2026-01-16",
             "equity": 1.0
@@ -2315,6 +2309,10 @@
           {
             "date": "2026-10-30",
             "equity": 0.9660241467011057
+          },
+          {
+            "date": "2026-11-02",
+            "equity": 0.9660241467011057
           }
         ],
         "trade_log": [
@@ -2638,813 +2636,813 @@
       },
       {
         "name": "pullback",
-        "train_return": 0.046751560920586625,
-        "test_return": 0.07750559301082506,
-        "stress_return": -0.03172837893137142,
-        "drawdown": -0.03452989579120258,
-        "trades": 120,
-        "win_rate": 0.4583333333333333,
-        "profit_factor": 1.1104145932857599,
+        "train_return": 0.047663957489497165,
+        "test_return": 0.01919467590977419,
+        "stress_return": -0.06990684999393791,
+        "drawdown": -0.038419928036159456,
+        "trades": 117,
+        "win_rate": 0.4358974358974359,
+        "profit_factor": 1.0011081508168107,
         "curve": [
           {
-            "date": "2026-01-15",
+            "date": "2026-01-16",
             "equity": 1.0
           },
           {
-            "date": "2026-01-16",
-            "equity": 0.9972846582177639
-          },
-          {
             "date": "2026-01-20",
-            "equity": 0.9912802722223396
+            "equity": 1.0009568408866938
           },
           {
             "date": "2026-01-21",
-            "equity": 0.9962590171409985
+            "equity": 1.0044630127867762
           },
           {
             "date": "2026-01-22",
-            "equity": 1.00867174731106
+            "equity": 1.0084018355069175
           },
           {
             "date": "2026-01-23",
-            "equity": 1.0060207866267779
+            "equity": 1.0090328144832978
           },
           {
             "date": "2026-01-26",
-            "equity": 1.0057266438620165
+            "equity": 1.0004069594564549
           },
           {
             "date": "2026-01-27",
-            "equity": 1.007298282870296
+            "equity": 1.004213836961261
           },
           {
             "date": "2026-01-28",
-            "equity": 1.0078189624343936
+            "equity": 1.0053994159114583
           },
           {
             "date": "2026-01-29",
-            "equity": 1.0085511403043508
+            "equity": 1.0020344886239596
           },
           {
             "date": "2026-01-30",
-            "equity": 0.9976502341499425
+            "equity": 0.9973415170369525
           },
           {
             "date": "2026-02-02",
-            "equity": 0.9902502906087405
+            "equity": 0.9923129734738412
           },
           {
             "date": "2026-02-03",
-            "equity": 0.9919633349586424
+            "equity": 0.9928921377417093
           },
           {
             "date": "2026-02-04",
-            "equity": 0.9919633349586424
+            "equity": 0.9972358732028107
           },
           {
             "date": "2026-02-05",
-            "equity": 0.9919633349586424
+            "equity": 0.9905754772181459
           },
           {
             "date": "2026-02-06",
-            "equity": 0.9994389137211983
+            "equity": 0.9989051392038591
           },
           {
             "date": "2026-02-09",
-            "equity": 1.00422747074762
+            "equity": 1.0010971881305968
           },
           {
             "date": "2026-02-10",
-            "equity": 1.0033181123326225
+            "equity": 0.9985389060453898
           },
           {
             "date": "2026-02-11",
-            "equity": 1.0155103823617546
+            "equity": 1.004205032288401
           },
           {
             "date": "2026-02-12",
-            "equity": 1.0087217296154114
+            "equity": 1.0035740995037443
           },
           {
             "date": "2026-02-13",
-            "equity": 1.0085568712792217
+            "equity": 1.004530519673027
           },
           {
             "date": "2026-02-17",
-            "equity": 1.0083341900090053
+            "equity": 1.0017239923508532
           },
           {
             "date": "2026-02-18",
-            "equity": 1.009777632937152
+            "equity": 1.0052699767732773
           },
           {
             "date": "2026-02-19",
-            "equity": 1.011799886307988
+            "equity": 1.0070102205189457
           },
           {
             "date": "2026-02-20",
-            "equity": 1.0242955596968182
+            "equity": 1.0179346955036581
           },
           {
             "date": "2026-02-23",
-            "equity": 1.021273308051547
+            "equity": 1.016865623343178
           },
           {
             "date": "2026-02-24",
-            "equity": 1.0264424582973364
+            "equity": 1.0214633681088503
           },
           {
             "date": "2026-02-25",
-            "equity": 1.0267211536753673
+            "equity": 1.0174228766034448
           },
           {
             "date": "2026-02-26",
-            "equity": 1.0338683052519146
+            "equity": 1.0229447634630846
           },
           {
             "date": "2026-02-27",
-            "equity": 1.0366186212194226
+            "equity": 1.0249112571591563
           },
           {
             "date": "2026-03-02",
-            "equity": 1.0344681651924281
+            "equity": 1.022338741548481
           },
           {
             "date": "2026-03-03",
-            "equity": 1.0393498156243344
+            "equity": 1.0224735564692635
           },
           {
             "date": "2026-03-04",
-            "equity": 1.0379542038185967
+            "equity": 1.0220563632596298
           },
           {
             "date": "2026-03-05",
-            "equity": 1.0383230983429403
+            "equity": 1.0198085977705789
           },
           {
             "date": "2026-03-06",
-            "equity": 1.033625910338787
+            "equity": 1.0162079494322196
           },
           {
             "date": "2026-03-09",
-            "equity": 1.0337803362992897
+            "equity": 1.016026487417536
           },
           {
             "date": "2026-03-10",
-            "equity": 1.031026398754207
+            "equity": 1.0097333712479803
           },
           {
             "date": "2026-03-11",
-            "equity": 1.0342374831906127
+            "equity": 1.0028379956939515
           },
           {
             "date": "2026-03-12",
-            "equity": 1.0310462636851918
+            "equity": 1.0014560381612474
           },
           {
             "date": "2026-03-13",
-            "equity": 1.0319670149089986
+            "equity": 1.0023793181924747
           },
           {
             "date": "2026-03-16",
-            "equity": 1.0323406837191385
+            "equity": 1.0027152360113578
           },
           {
             "date": "2026-03-17",
-            "equity": 1.0347191476421496
+            "equity": 1.0045502677025697
           },
           {
             "date": "2026-03-18",
-            "equity": 1.0437395870237922
+            "equity": 1.0101079039636158
           },
           {
             "date": "2026-03-19",
-            "equity": 1.05632561784658
+            "equity": 1.0182372320531814
           },
           {
             "date": "2026-03-20",
-            "equity": 1.0486489460426054
+            "equity": 1.012795252247696
           },
           {
             "date": "2026-03-23",
-            "equity": 1.0436736268343334
+            "equity": 1.0097876718813068
           },
           {
             "date": "2026-03-24",
-            "equity": 1.0454392407149808
+            "equity": 1.010883304544405
           },
           {
             "date": "2026-03-25",
-            "equity": 1.0440080471420017
+            "equity": 1.0096399773458709
           },
           {
             "date": "2026-03-26",
-            "equity": 1.048394892703586
+            "equity": 1.0122862194682867
           },
           {
             "date": "2026-03-27",
-            "equity": 1.048737538371653
+            "equity": 1.012232957918045
           },
           {
             "date": "2026-03-30",
-            "equity": 1.0498927749613893
+            "equity": 1.0127978923170997
           },
           {
             "date": "2026-03-31",
-            "equity": 1.045366618790938
+            "equity": 1.0104450405355865
           },
           {
             "date": "2026-04-01",
-            "equity": 1.042491384886536
+            "equity": 1.0087368127342413
           },
           {
             "date": "2026-04-02",
-            "equity": 1.0509748971031974
+            "equity": 1.0140011648013858
           },
           {
             "date": "2026-04-06",
-            "equity": 1.0509748971031974
+            "equity": 1.0140011648013858
           },
           {
             "date": "2026-04-07",
-            "equity": 1.0509748971031974
+            "equity": 1.0140011648013858
           },
           {
             "date": "2026-04-08",
-            "equity": 1.0544869529674747
+            "equity": 1.0154897359187245
           },
           {
             "date": "2026-04-09",
-            "equity": 1.047160555449346
+            "equity": 1.0113045274058907
           },
           {
             "date": "2026-04-10",
-            "equity": 1.04694032329471
+            "equity": 1.0108140623353534
           },
           {
             "date": "2026-04-13",
-            "equity": 1.0610917676661458
+            "equity": 1.0241113881083996
           },
           {
             "date": "2026-04-14",
-            "equity": 1.0590848003343967
+            "equity": 1.0235671768986525
           },
           {
             "date": "2026-04-15",
-            "equity": 1.066910314964533
+            "equity": 1.0310758534379256
           },
           {
             "date": "2026-04-16",
-            "equity": 1.063518972503354
+            "equity": 1.0279455965873614
           },
           {
             "date": "2026-04-17",
-            "equity": 1.0664651229477131
+            "equity": 1.0313154997973728
           },
           {
             "date": "2026-04-20",
-            "equity": 1.0792010799536442
+            "equity": 1.0442436018141446
           },
           {
             "date": "2026-04-21",
-            "equity": 1.0699138422526082
+            "equity": 1.0347564572750163
           },
           {
             "date": "2026-04-22",
-            "equity": 1.088674149210999
+            "equity": 1.0539882354801628
           },
           {
             "date": "2026-04-23",
-            "equity": 1.072422898892798
+            "equity": 1.0374024036604725
           },
           {
             "date": "2026-04-24",
-            "equity": 1.070722667784172
+            "equity": 1.0359402075354056
           },
           {
             "date": "2026-04-27",
-            "equity": 1.072295778962961
+            "equity": 1.0373540735353672
           },
           {
             "date": "2026-04-28",
-            "equity": 1.0749228650322782
+            "equity": 1.0396651558943744
           },
           {
             "date": "2026-04-29",
-            "equity": 1.0743064619788294
+            "equity": 1.0367671723351852
           },
           {
             "date": "2026-04-30",
-            "equity": 1.0768412897446515
+            "equity": 1.0395781412706484
           },
           {
             "date": "2026-05-01",
-            "equity": 1.0811238808932317
+            "equity": 1.0424154758558597
           },
           {
             "date": "2026-05-04",
-            "equity": 1.0818889208803883
+            "equity": 1.0423487220089445
           },
           {
             "date": "2026-05-05",
-            "equity": 1.0806844173580952
+            "equity": 1.0408455555104816
           },
           {
             "date": "2026-05-06",
-            "equity": 1.0782209737534363
+            "equity": 1.038470982532453
           },
           {
             "date": "2026-05-07",
-            "equity": 1.0770943043351973
+            "equity": 1.0374837682641471
           },
           {
             "date": "2026-05-08",
-            "equity": 1.0717453222961904
+            "equity": 1.034409204806443
           },
           {
             "date": "2026-05-11",
-            "equity": 1.080565014892351
+            "equity": 1.042262135129354
           },
           {
             "date": "2026-05-12",
-            "equity": 1.0821397702878908
+            "equity": 1.0401782832667203
           },
           {
             "date": "2026-05-13",
-            "equity": 1.0784829163313978
+            "equity": 1.0382056681478735
           },
           {
             "date": "2026-05-14",
-            "equity": 1.0767690991159944
+            "equity": 1.0367929236989188
           },
           {
             "date": "2026-05-15",
-            "equity": 1.084724259361282
+            "equity": 1.0414306862577323
           },
           {
             "date": "2026-05-18",
-            "equity": 1.076065871898056
+            "equity": 1.0329521811367155
           },
           {
             "date": "2026-05-19",
-            "equity": 1.0717586492701974
+            "equity": 1.0288484238654818
           },
           {
             "date": "2026-05-20",
-            "equity": 1.070598129400496
+            "equity": 1.0305742451497484
           },
           {
             "date": "2026-05-21",
-            "equity": 1.0825003141567178
+            "equity": 1.0405453500527133
           },
           {
             "date": "2026-05-22",
-            "equity": 1.0792696542773863
+            "equity": 1.0379759332434109
           },
           {
             "date": "2026-05-26",
-            "equity": 1.0800513102330924
+            "equity": 1.0388065894269491
           },
           {
             "date": "2026-05-27",
-            "equity": 1.080516972188163
+            "equity": 1.0392722513820198
           },
           {
             "date": "2026-05-28",
-            "equity": 1.0869742136605292
+            "equity": 1.0457294928543857
           },
           {
             "date": "2026-05-29",
-            "equity": 1.0822927144596926
+            "equity": 1.0413447404389373
           },
           {
             "date": "2026-06-01",
-            "equity": 1.0814787779231751
+            "equity": 1.0406304914918425
           },
           {
             "date": "2026-06-02",
-            "equity": 1.0779445344267233
+            "equity": 1.0365069116372811
           },
           {
             "date": "2026-06-03",
-            "equity": 1.070108412147593
+            "equity": 1.029002088327493
           },
           {
             "date": "2026-06-04",
-            "equity": 1.071668149180498
+            "equity": 1.0304703387160978
           },
           {
             "date": "2026-06-05",
-            "equity": 1.0552362856486281
+            "equity": 1.0137883529272036
           },
           {
             "date": "2026-06-08",
-            "equity": 1.0570633369987785
+            "equity": 1.015637936819676
           },
           {
             "date": "2026-06-09",
-            "equity": 1.0582597746047098
+            "equity": 1.0168700237085293
           },
           {
             "date": "2026-06-10",
-            "equity": 1.0647661555462717
+            "equity": 1.0234013591481366
           },
           {
             "date": "2026-06-11",
-            "equity": 1.0648485275548112
+            "equity": 1.0234837311566762
           },
           {
             "date": "2026-06-12",
-            "equity": 1.062096251983992
+            "equity": 1.020731455585857
           },
           {
             "date": "2026-06-15",
-            "equity": 1.0622440859028084
+            "equity": 1.0208792895046732
           },
           {
             "date": "2026-06-16",
-            "equity": 1.0622440859028084
+            "equity": 1.0208792895046732
           },
           {
             "date": "2026-06-17",
-            "equity": 1.0624948264373302
+            "equity": 1.0211300300391952
           },
           {
             "date": "2026-06-18",
-            "equity": 1.0632951630753473
+            "equity": 1.0219303666772124
           },
           {
             "date": "2026-06-22",
-            "equity": 1.0646775143259992
+            "equity": 1.0233127179278643
           },
           {
             "date": "2026-06-23",
-            "equity": 1.064038318865754
+            "equity": 1.0226735224676191
           },
           {
             "date": "2026-06-24",
-            "equity": 1.0658068871087372
+            "equity": 1.0244420907106022
           },
           {
             "date": "2026-06-25",
-            "equity": 1.065519411845585
+            "equity": 1.0241546154474501
           },
           {
             "date": "2026-06-26",
-            "equity": 1.0663818376350416
+            "equity": 1.0250170412369064
           },
           {
             "date": "2026-06-29",
-            "equity": 1.068202516586322
+            "equity": 1.026837720188187
           },
           {
             "date": "2026-06-30",
-            "equity": 1.068202516586322
+            "equity": 1.026837720188187
           },
           {
             "date": "2026-07-01",
-            "equity": 1.0680747640183594
+            "equity": 1.0267150493486445
           },
           {
             "date": "2026-07-02",
-            "equity": 1.0690702314319278
+            "equity": 1.0276709191625126
           },
           {
             "date": "2026-07-06",
-            "equity": 1.0702954239204592
+            "equity": 1.028847376071099
           },
           {
             "date": "2026-07-07",
-            "equity": 1.0693765290976411
+            "equity": 1.0279650329513952
           },
           {
             "date": "2026-07-08",
-            "equity": 1.0684576361005012
+            "equity": 1.0270826915847475
           },
           {
             "date": "2026-07-09",
-            "equity": 1.0685089254113609
+            "equity": 1.0271324579473144
           },
           {
             "date": "2026-07-10",
-            "equity": 1.0689709303706822
+            "equity": 1.0275944629066356
           },
           {
             "date": "2026-07-13",
-            "equity": 1.0643696577896364
+            "equity": 1.023073190547242
           },
           {
             "date": "2026-07-14",
-            "equity": 1.0637988469237465
+            "equity": 1.0224895963677678
           },
           {
             "date": "2026-07-15",
-            "equity": 1.0648804160960088
+            "equity": 1.0235807530252183
           },
           {
             "date": "2026-07-16",
-            "equity": 1.0510823442881672
+            "equity": 1.0134940833220563
           },
           {
             "date": "2026-07-17",
-            "equity": 1.053708346071364
+            "equity": 1.0144593301290146
           },
           {
             "date": "2026-07-20",
-            "equity": 1.0560607543315823
+            "equity": 1.0156885892376954
           },
           {
             "date": "2026-07-21",
-            "equity": 1.0606650006637257
+            "equity": 1.0180465328037658
           },
           {
             "date": "2026-07-22",
-            "equity": 1.0696120580267676
+            "equity": 1.0226881806229156
           },
           {
             "date": "2026-07-23",
-            "equity": 1.0743182138832499
+            "equity": 1.0253352297015792
           },
           {
             "date": "2026-07-24",
-            "equity": 1.074397659945045
+            "equity": 1.0254146757633744
           },
           {
             "date": "2026-07-27",
-            "equity": 1.0730428988305116
+            "equity": 1.0245739933559423
           },
           {
             "date": "2026-07-28",
-            "equity": 1.0675183529056735
+            "equity": 1.021145795928191
           },
           {
             "date": "2026-07-29",
-            "equity": 1.075252711931837
+            "equity": 1.0259452690576638
           },
           {
             "date": "2026-07-30",
-            "equity": 1.0796723381344873
+            "equity": 1.0286878204611067
           },
           {
             "date": "2026-07-31",
-            "equity": 1.0868542438853193
+            "equity": 1.033144474665149
           },
           {
             "date": "2026-08-03",
-            "equity": 1.0791198848591559
+            "equity": 1.0283450015356763
           },
           {
             "date": "2026-08-04",
-            "equity": 1.0788804183482332
+            "equity": 1.0281964031733952
           },
           {
             "date": "2026-08-05",
-            "equity": 1.0748124177860783
+            "equity": 1.025672049271191
           },
           {
             "date": "2026-08-06",
-            "equity": 1.082044160648673
+            "equity": 1.0302575444721676
           },
           {
             "date": "2026-08-07",
-            "equity": 1.0853921500499781
+            "equity": 1.0333850136731388
           },
           {
             "date": "2026-08-10",
-            "equity": 1.0842085735073406
+            "equity": 1.0315398765295007
           },
           {
             "date": "2026-08-11",
-            "equity": 1.0808688241610167
+            "equity": 1.028641167583844
           },
           {
             "date": "2026-08-12",
-            "equity": 1.0775326859109773
+            "equity": 1.0253050293338046
           },
           {
             "date": "2026-08-13",
-            "equity": 1.0806314016300747
+            "equity": 1.0271843501832463
           },
           {
             "date": "2026-08-14",
-            "equity": 1.081711265370469
+            "equity": 1.0280845503357223
           },
           {
             "date": "2026-08-17",
-            "equity": 1.0770128184547059
+            "equity": 1.0220688362851449
           },
           {
             "date": "2026-08-18",
-            "equity": 1.0819045575241402
+            "equity": 1.023965172574515
           },
           {
             "date": "2026-08-19",
-            "equity": 1.0985220229363917
+            "equity": 1.038509638931952
           },
           {
             "date": "2026-08-20",
-            "equity": 1.1000165485418678
+            "equity": 1.0381366601463196
           },
           {
             "date": "2026-08-21",
-            "equity": 1.1035615512857748
+            "equity": 1.041539753446855
           },
           {
             "date": "2026-08-24",
-            "equity": 1.0968751632598435
+            "equity": 1.0365803484398088
           },
           {
             "date": "2026-08-25",
-            "equity": 1.0929032725677799
+            "equity": 1.0353388452770025
           },
           {
             "date": "2026-08-26",
-            "equity": 1.09293187475382
+            "equity": 1.0342855322247304
           },
           {
             "date": "2026-08-27",
-            "equity": 1.0967052875262213
+            "equity": 1.0360894733975088
           },
           {
             "date": "2026-08-28",
-            "equity": 1.0883231410706076
+            "equity": 1.030161147631956
           },
           {
             "date": "2026-08-31",
-            "equity": 1.09769127861597
+            "equity": 1.0364257305051245
           },
           {
             "date": "2026-09-01",
-            "equity": 1.0948716071496074
+            "equity": 1.0336234466110068
           },
           {
             "date": "2026-09-02",
-            "equity": 1.0959296020588654
+            "equity": 1.034679596020994
           },
           {
             "date": "2026-09-03",
-            "equity": 1.087415487472576
+            "equity": 1.02957348744665
           },
           {
             "date": "2026-09-04",
-            "equity": 1.0871887754685752
+            "equity": 1.0301504532309473
           },
           {
             "date": "2026-09-08",
-            "equity": 1.0899090559206661
+            "equity": 1.03142341308093
           },
           {
             "date": "2026-09-09",
-            "equity": 1.0872647142107739
+            "equity": 1.0284145306138317
           },
           {
             "date": "2026-09-10",
-            "equity": 1.0892888817810562
+            "equity": 1.0289583779189353
           },
           {
             "date": "2026-09-11",
-            "equity": 1.0860224749555571
+            "equity": 1.0267647091164525
           },
           {
             "date": "2026-09-14",
-            "equity": 1.085363374213971
+            "equity": 1.0261056083748665
           },
           {
             "date": "2026-09-15",
-            "equity": 1.0847042734723853
+            "equity": 1.0254465076332806
           },
           {
             "date": "2026-09-16",
-            "equity": 1.0844845706061563
+            "equity": 1.0252268047670519
           },
           {
             "date": "2026-09-17",
-            "equity": 1.0892886915145914
+            "equity": 1.030030925675487
           },
           {
             "date": "2026-09-18",
-            "equity": 1.0875619970879808
+            "equity": 1.0283042312488764
           },
           {
             "date": "2026-09-21",
-            "equity": 1.0905621149182834
+            "equity": 1.031304349079179
           },
           {
             "date": "2026-09-22",
-            "equity": 1.090999394478938
+            "equity": 1.0317416286398335
           },
           {
             "date": "2026-09-23",
-            "equity": 1.087976517356118
+            "equity": 1.0287187515170135
           },
           {
             "date": "2026-09-24",
-            "equity": 1.0877706018575182
+            "equity": 1.0285128360184137
           },
           {
             "date": "2026-09-25",
-            "equity": 1.0863280929440817
+            "equity": 1.0270703271049773
           },
           {
             "date": "2026-09-28",
-            "equity": 1.0856255902719705
+            "equity": 1.0263743713910058
           },
           {
             "date": "2026-09-29",
-            "equity": 1.0878747101663955
+            "equity": 1.0285437252758267
           },
           {
             "date": "2026-09-30",
-            "equity": 1.0816882890912043
+            "equity": 1.0223331327175005
           },
           {
             "date": "2026-10-01",
-            "equity": 1.0813763922343613
+            "equity": 1.0220357387505383
           },
           {
             "date": "2026-10-02",
-            "equity": 1.082444274463307
+            "equity": 1.023091535295546
           },
           {
             "date": "2026-10-05",
-            "equity": 1.083059522867202
+            "equity": 1.0236971151061869
           },
           {
             "date": "2026-10-06",
-            "equity": 1.082101380823382
+            "equity": 1.0227389730623668
           },
           {
             "date": "2026-10-07",
-            "equity": 1.0818536556001885
+            "equity": 1.0224912478391734
           },
           {
             "date": "2026-10-08",
-            "equity": 1.082333400642847
+            "equity": 1.022970992881832
           },
           {
             "date": "2026-10-09",
-            "equity": 1.0870181031954316
+            "equity": 1.0275801570713188
           },
           {
             "date": "2026-10-12",
-            "equity": 1.0844528140461682
+            "equity": 1.025101651277461
           },
           {
             "date": "2026-10-13",
-            "equity": 1.0817764835099173
+            "equity": 1.0224687124780294
           },
           {
             "date": "2026-10-14",
-            "equity": 1.0800363612253092
+            "equity": 1.0207521456891153
           },
           {
             "date": "2026-10-15",
-            "equity": 1.0775997904295909
+            "equity": 1.0201726407659684
           },
           {
             "date": "2026-10-16",
-            "equity": 1.0806963353408188
+            "equity": 1.0210411707516667
           },
           {
             "date": "2026-10-19",
-            "equity": 1.0802347402573085
+            "equity": 1.0203555344201396
           },
           {
             "date": "2026-10-20",
-            "equity": 1.0819745364259614
+            "equity": 1.022767454332843
           },
           {
             "date": "2026-10-21",
-            "equity": 1.0782396054050691
+            "equity": 1.020376770800052
           },
           {
             "date": "2026-10-22",
-            "equity": 1.0793242378014383
+            "equity": 1.0210133207003875
           },
           {
             "date": "2026-10-23",
-            "equity": 1.0781866045559088
+            "equity": 1.0198756874548578
           },
           {
             "date": "2026-10-26",
-            "equity": 1.0777974537761343
+            "equity": 1.0194865366750834
           },
           {
             "date": "2026-10-27",
-            "equity": 1.0784784699602612
+            "equity": 1.0201675528592102
           },
           {
             "date": "2026-10-28",
-            "equity": 1.0800350730793589
+            "equity": 1.021724155978308
           },
           {
             "date": "2026-10-29",
-            "equity": 1.0779920291660214
+            "equity": 1.0196811120649707
           },
           {
             "date": "2026-10-30",
-            "equity": 1.077505593010825
+            "equity": 1.0191946759097743
+          },
+          {
+            "date": "2026-11-02",
+            "equity": 1.0191946759097743
           }
         ],
         "trade_log": [
@@ -3617,17 +3615,10 @@
             "symbol": "OPEN"
           },
           {
-            "signal_date": "2026-01-15",
-            "entry_date": "2026-01-16",
-            "exit_date": "2026-01-26",
-            "return": 0.07219364317433175,
-            "symbol": "PLUG"
-          },
-          {
-            "signal_date": "2026-01-26",
-            "entry_date": "2026-01-27",
-            "exit_date": "2026-02-03",
-            "return": -0.09138293881987047,
+            "signal_date": "2026-01-23",
+            "entry_date": "2026-01-26",
+            "exit_date": "2026-02-02",
+            "return": -0.15366720032576742,
             "symbol": "PLUG"
           },
           {
@@ -3701,17 +3692,10 @@
             "symbol": "PLUG"
           },
           {
-            "signal_date": "2026-01-15",
-            "entry_date": "2026-01-16",
-            "exit_date": "2026-01-26",
-            "return": -0.019861762854710086,
-            "symbol": "BLNK"
-          },
-          {
-            "signal_date": "2026-01-26",
-            "entry_date": "2026-01-27",
-            "exit_date": "2026-02-03",
-            "return": -0.1571519072264449,
+            "signal_date": "2026-01-20",
+            "entry_date": "2026-01-21",
+            "exit_date": "2026-01-28",
+            "return": -0.014609315720297555,
             "symbol": "BLNK"
           },
           {
@@ -3848,17 +3832,10 @@
             "symbol": "BBAI"
           },
           {
-            "signal_date": "2026-01-15",
-            "entry_date": "2026-01-16",
-            "exit_date": "2026-01-26",
-            "return": 0.0028245742986681144,
-            "symbol": "RXRX"
-          },
-          {
-            "signal_date": "2026-01-26",
-            "entry_date": "2026-01-27",
-            "exit_date": "2026-02-03",
-            "return": -0.10063362658609776,
+            "signal_date": "2026-01-23",
+            "entry_date": "2026-01-26",
+            "exit_date": "2026-02-02",
+            "return": -0.13396925078859356,
             "symbol": "RXRX"
           },
           {
@@ -4051,38 +4028,38 @@
             "symbol": "GPRO"
           },
           {
-            "signal_date": "2026-01-15",
-            "entry_date": "2026-01-16",
-            "exit_date": "2026-01-26",
-            "return": 0.020749031458170863,
+            "signal_date": "2026-01-20",
+            "entry_date": "2026-01-21",
+            "exit_date": "2026-01-28",
+            "return": 0.17669848594026227,
             "symbol": "KOS"
           },
           {
-            "signal_date": "2026-01-26",
-            "entry_date": "2026-01-27",
-            "exit_date": "2026-02-03",
-            "return": 0.08359776435753385,
+            "signal_date": "2026-01-30",
+            "entry_date": "2026-02-02",
+            "exit_date": "2026-02-09",
+            "return": -0.02988411722713069,
             "symbol": "KOS"
           },
           {
-            "signal_date": "2026-02-05",
-            "entry_date": "2026-02-06",
-            "exit_date": "2026-02-13",
-            "return": 0.21506101363891217,
+            "signal_date": "2026-02-12",
+            "entry_date": "2026-02-13",
+            "exit_date": "2026-02-23",
+            "return": 0.2956205883682801,
             "symbol": "KOS"
           },
           {
-            "signal_date": "2026-02-17",
-            "entry_date": "2026-02-18",
-            "exit_date": "2026-02-25",
-            "return": 0.35006786211311147,
+            "signal_date": "2026-02-23",
+            "entry_date": "2026-02-24",
+            "exit_date": "2026-03-03",
+            "return": 0.1793240228445987,
             "symbol": "KOS"
           },
           {
-            "signal_date": "2026-02-25",
-            "entry_date": "2026-02-26",
-            "exit_date": "2026-03-05",
-            "return": 0.24726855008974802,
+            "signal_date": "2026-03-04",
+            "entry_date": "2026-03-05",
+            "exit_date": "2026-03-12",
+            "return": -0.1948622767036604,
             "symbol": "KOS"
           },
           {
@@ -4177,10 +4154,10 @@
             "symbol": "KOS"
           },
           {
-            "signal_date": "2026-01-15",
-            "entry_date": "2026-01-16",
-            "exit_date": "2026-01-26",
-            "return": 0.11948278766317899,
+            "signal_date": "2026-01-16",
+            "entry_date": "2026-01-20",
+            "exit_date": "2026-01-27",
+            "return": 0.17613132325636482,
             "symbol": "RIG"
           },
           {
