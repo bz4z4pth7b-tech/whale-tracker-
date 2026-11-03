@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-03T02:28:31.321082+00:00",
+  "updated_at": "2026-11-03T12:06:35.869285+00:00",
   "market_as_of": "2026-11-02",
-  "market_fetched_at": "2026-11-03T02:28:31.321082+00:00",
+  "market_fetched_at": "2026-11-03T12:06:35.869285+00:00",
   "market_status": "partial",
   "whale_fetched_at": null,
-  "whale_checked_at": "2026-11-03T02:28:31.321082+00:00",
+  "whale_checked_at": "2026-11-03T12:06:35.869285+00:00",
   "whale_status": "unavailable",
   "managers": [
     {
@@ -4283,7 +4283,7 @@
   "errors": [
     "NKLA: HTTPError: HTTP Error 404: Not Found",
     "WISH: HTTPError: HTTP Error 404: Not Found",
-    "BITF: HTTPError: HTTP Error 404: Not Found",
+    "BITF: KeyError: 'close'",
     "SEC manager Berkshire Hathaway: HTTPError: HTTP Error 403: Forbidden",
     "SEC manager Pershing Square: RuntimeError: SEC host blocked this refresh; no retries",
     "SEC manager Scion Asset Management: RuntimeError: SEC host blocked this refresh; no retries",
